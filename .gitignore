@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.matplotlib/
+.DS_Store
+data/processed/*
